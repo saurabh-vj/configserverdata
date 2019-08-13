@@ -1,0 +1,3 @@
+productServiceUri: "http://productservice/api/product"
+fetchInterval: "00:05:00"
+
